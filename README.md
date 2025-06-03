@@ -1,2 +1,1 @@
-# ObsidianVault
-WILL BE EMPTY UNTIL LATE 2025 - repository for my Obsidian vault + notes, 2023-2025.
+This is literally a shell repository until my academic year is fully over. I'm just using it as a temporary redirect for my website right now!
